@@ -106,7 +106,7 @@ a:after {
 
 /* About Wrap */
 .about {
-  background: #2c3e50;
+  background: #1c4e60;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -150,7 +150,12 @@ a:after {
 /* Global Values */
 
 .desc {
-  padding-top: 50px;
+    padding-top: 50px;
+    background: #dddddd;
+}
+
+.col-lg-6 i {
+    color: #777777;
 }
 
 .desc p {
